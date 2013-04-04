@@ -1,4 +1,4 @@
-Retos del ejercicio de Trollyota CorLOLa de Freddy Vega @freddier
+Prueba
 
 
 ## Requisitos:
