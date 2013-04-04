@@ -1,8 +1,11 @@
-Retos del ejercicio de Chat de Daniel Zavala @siedrix
+Retos del ejercicio de Trollyota CorLOLa de Freddy Vega @freddier
 
 
 ## Requisitos:
 
 - Haber visto la clase en la plataforma.
-- Conocer perfectamente el área de node_modules.
+- Estudiar jQuery.
+
+
+## Ejercicio por resolver:
 
