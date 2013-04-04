@@ -1,6 +1,3 @@
-
-#mejorandocurso
-
 Retos del ejercicio de Chat de Daniel Zavala @siedrix
 
 
